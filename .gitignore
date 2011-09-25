@@ -2,3 +2,4 @@ t.py
 venv*
 *.egg-info
 *.pyc
+dist*
