@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name="sigdebug",
-    version = "0.1",
+    version = "0.2",
     author = "Ryan P. Kelly",
     author_email = "rpkelly22@gmail.com",
     description="Debug helpers responding to signals",

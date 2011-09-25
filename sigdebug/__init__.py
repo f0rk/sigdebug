@@ -12,6 +12,9 @@ import threading
 from pdb import Pdb
 
 
+__version__ = "0.2"
+
+
 def interactive(signum, frame):
     """Enter into pdb at the location the process was interrupted.
 
